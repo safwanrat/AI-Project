@@ -1,5 +1,5 @@
 '''
-Safwan Rahman, Sarvesh Chandrakumar, Olivier Vannier
+119 Safwan Rahman, 105 Sarvesh Chandrakumar, 131 Olivier Vannier
 
 This program uses the Chat GPT API to function as a travel advisor app with features such as obtaining the weather, recommending hotels, and checking the price of food within a city.
 '''
